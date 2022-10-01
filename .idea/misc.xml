@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dzham/AndroidStudioProjects/BookAppKotlin/app/src/main/res/drawable/ic_add_brown.xml" value="0.211" />
+        <entry key="..\:/Users/dzham/AndroidStudioProjects/BookAppKotlin/app/src/main/res/drawable/ic_baseline_post_add_24.xml" value="0.211" />
+        <entry key="..\:/Users/dzham/AndroidStudioProjects/BookAppKotlin/app/src/main/res/drawable/ic_baseline_power_off_24.xml" value="0.211" />
+        <entry key="..\:/Users/dzham/AndroidStudioProjects/BookAppKotlin/app/src/main/res/drawable/ic_bkac_brown.xml" value="0.212" />
+        <entry key="..\:/Users/dzham/AndroidStudioProjects/BookAppKotlin/app/src/main/res/drawable/ic_door_gray.xml" value="0.212" />
+        <entry key="..\:/Users/dzham/AndroidStudioProjects/BookAppKotlin/app/src/main/res/drawable/ic_launcher_background.xml" value="0.256" />
+        <entry key="..\:/Users/dzham/AndroidStudioProjects/BookAppKotlin/app/src/main/res/drawable/ic_person_gray.xml" value="0.212" />
+        <entry key="..\:/Users/dzham/AndroidStudioProjects/BookAppKotlin/app/src/main/res/drawable/shape_button01.xml" value="0.256" />
+        <entry key="..\:/Users/dzham/AndroidStudioProjects/BookAppKotlin/app/src/main/res/drawable/shape_button02.xml" value="0.256" />
+        <entry key="..\:/Users/dzham/AndroidStudioProjects/BookAppKotlin/app/src/main/res/drawable/shape_button03.xml" value="0.23" />
+        <entry key="..\:/Users/dzham/AndroidStudioProjects/BookAppKotlin/app/src/main/res/drawable/shape_edittext01.xml" value="0.256" />
+        <entry key="..\:/Users/dzham/AndroidStudioProjects/BookAppKotlin/app/src/main/res/drawable/shape_toolbar01.xml" value="0.212" />
+        <entry key="..\:/Users/dzham/AndroidStudioProjects/BookAppKotlin/app/src/main/res/drawable/shape_toolbar02.xml" value="0.212" />
+        <entry key="..\:/Users/dzham/AndroidStudioProjects/BookAppKotlin/app/src/main/res/layout/activity_dashboard_admin.xml" value="0.33" />
+        <entry key="..\:/Users/dzham/AndroidStudioProjects/BookAppKotlin/app/src/main/res/layout/activity_dashboard_user.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/dzham/AndroidStudioProjects/BookAppKotlin/app/src/main/res/layout/activity_genre_add.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/dzham/AndroidStudioProjects/BookAppKotlin/app/src/main/res/layout/activity_genre_add1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/dzham/AndroidStudioProjects/BookAppKotlin/app/src/main/res/layout/activity_login.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/dzham/AndroidStudioProjects/BookAppKotlin/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/dzham/AndroidStudioProjects/BookAppKotlin/app/src/main/res/layout/activity_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/dzham/AndroidStudioProjects/BookAppKotlin/app/src/main/res/layout/activity_splash.xml" value="0.33" />
+        <entry key="..\:/Users/dzham/AndroidStudioProjects/BookAppKotlin/app/src/main/res/layout/row_genre.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

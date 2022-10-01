@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Book App Kotlin</string>
+    <string name="Bookly_name">Bookly</string>
+    <string name="new_user_signip">No account registered? <b>Sign up</b></string>
+</resources>
